@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EMP_Projiect_Using_Web_Api\\Ems_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37883701-5BC7-4DB5-B7A9-69CD36CCDFED}|Ems_Project\\Ems_Project.csproj|d:\\emp_projiect_using_web_api\\ems_project\\ems_project\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37883701-5BC7-4DB5-B7A9-69CD36CCDFED}|Ems_Project\\Ems_Project.csproj|solutionrelative:ems_project\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37883701-5BC7-4DB5-B7A9-69CD36CCDFED}|Ems_Project\\Ems_Project.csproj|d:\\emp_projiect_using_web_api\\ems_project\\ems_project\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37883701-5BC7-4DB5-B7A9-69CD36CCDFED}|Ems_Project\\Ems_Project.csproj|solutionrelative:ems_project\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37883701-5BC7-4DB5-B7A9-69CD36CCDFED}|Ems_Project\\Ems_Project.csproj|d:\\emp_projiect_using_web_api\\ems_project\\ems_project\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37883701-5BC7-4DB5-B7A9-69CD36CCDFED}|Ems_Project\\Ems_Project.csproj|solutionrelative:ems_project\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\EMP_Projiect_Using_Web_Api\\Ems_Project\\Ems_Project\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Ems_Project\\Models\\Employee.cs",
+              "ToolTip": "D:\\EMP_Projiect_Using_Web_Api\\Ems_Project\\Ems_Project\\Models\\Employee.cs",
+              "RelativeToolTip": "Ems_Project\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:30:50.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\EMP_Projiect_Using_Web_Api\\Ems_Project\\Ems_Project\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Ems_Project\\Models\\EmployeeDto.cs",
+              "ToolTip": "D:\\EMP_Projiect_Using_Web_Api\\Ems_Project\\Ems_Project\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "Ems_Project\\Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:25:10.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\EMP_Projiect_Using_Web_Api\\Ems_Project\\Ems_Project\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Ems_Project\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\EMP_Projiect_Using_Web_Api\\Ems_Project\\Ems_Project\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Ems_Project\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwL0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:18:13.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
